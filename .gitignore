@@ -1,3 +1,5 @@
+lib/github_oautth_credentials.dart
+
 # Miscellaneous
 *.class
 *.log
